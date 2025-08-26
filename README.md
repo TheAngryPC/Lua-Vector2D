@@ -25,9 +25,9 @@ local Vector2 = require 'vector2'
 ## Benchmarking
 
 ```bash
-lua bench.lua
+lua benchmark.lua
 ```
 
 ```bash
-luajit bench.lua
+luajit benchmark.lua
 ```
